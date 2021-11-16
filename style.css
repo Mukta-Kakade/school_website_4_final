@@ -1,0 +1,23 @@
+
+
+.achiev_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display:inline-block;
+}
+.achiev_head i{
+    float: right
+}
+.achiev_text span{
+    color:#ff7700;
+}
+
+#new1{
+    width: 30%
+}
+#new2{
+    width: 30%
+}
